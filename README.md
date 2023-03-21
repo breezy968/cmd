@@ -1,4 +1,4 @@
-##Control Multiple Devices with shell
+## Control Multiple Devices with shell
 ===
   This model is a shell script for operating multiple Android devices with adb or fastboot command at once.
   
